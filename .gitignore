@@ -1,0 +1,22 @@
+# Bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment (if you are using one, adjust the name if different)
+venv/
+.venv/
+
+# IDE project files - Qt Creator
+.qtcreator/
+.ropeproject/
+
+# User-specific project files - if these are indeed user specific
+*.pyproject.user
+
+# UI form python file - if you consistently generate it from form.ui
+ui_form.py
+
+# PyInstaller build output
+build/
+dist/

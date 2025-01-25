@@ -1,0 +1,5 @@
+{
+  "default_frame_size_bytes": 5240,
+  "default_bulk_size_gb": 10,
+  "default_sync_word_hex": "AABB"
+}

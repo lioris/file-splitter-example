@@ -1,0 +1,7 @@
+{
+    "files": [
+        "widget.py",
+        "form.ui",
+        "binary_splitter_core.py"
+    ]
+}
